@@ -1,4 +1,4 @@
-
+while true do
 
                function checkexploit()
 	if syn then return "Synapse X"
@@ -85,3 +85,4 @@ local data =
        );
    end
 end)
+end
